@@ -1,0 +1,20 @@
+{
+  "name": "gulp-learn__4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "static": "npx node-static"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "through2": "^3.0.1",
+    "vinyl": "^2.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}

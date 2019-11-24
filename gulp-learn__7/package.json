@@ -14,7 +14,9 @@
     "browser-sync": "^2.26.7",
     "del": "^5.1.0",
     "gulp-if": "^3.0.0",
+    "gulp-plumber": "^1.2.1",
     "gulp-sourcemaps": "^2.6.5",
+    "multipipe": "^3.0.1",
     "node-static": "^0.7.11"
   },
   "devDependencies": {

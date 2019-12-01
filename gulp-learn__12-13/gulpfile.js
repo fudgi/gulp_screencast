@@ -1,4 +1,5 @@
-"use strict";
+//Пример сборки проекта
+//Сборка спрайтов из svg
 
 const del = require("del");
 const gulp = require("gulp");

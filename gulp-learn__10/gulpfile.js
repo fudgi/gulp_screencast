@@ -1,3 +1,6 @@
+//Написание более сложного модуля с through2
+//Линтер js
+
 const gulp = require("gulp");
 const eslint = require("gulp-eslint");
 const debug = require("gulp-debug");

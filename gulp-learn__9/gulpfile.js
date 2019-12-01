@@ -1,4 +1,4 @@
-"use strict";
+//Обучение работе с  through2
 
 const gulp = require("gulp");
 const through2 = require("through2").obj;
